@@ -1,0 +1,1 @@
+ANSH ART portfolio. Updated November 2026 with eight original, unretouched artwork photographs. All painting surfaces remain unchanged. Open index.html locally or deploy this directory to a static host. Contact: anshpreetvb@gmail.com.
